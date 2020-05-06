@@ -16,7 +16,7 @@ This project contains two major documentation files:
  - [First time users - getting started](README_proof_of_concept.md)
  - [How to use for future projects](README_how_to_use.md)
 
-### Diabetesprojekt
+# Diabetesprojekt
 
 Udarbejdet af Talha og Henrik
 
@@ -30,6 +30,6 @@ I denne opgave vil vi vise hvordan data relateret til diabetes kan bruges til at
 - Matplotlib
  
 ### Udfordringer
-    Vi har især arbejdet med at:
+Vi har især arbejdet med at:
 - Rense data
 - Oprette figurer
